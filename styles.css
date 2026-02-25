@@ -1,0 +1,65 @@
+
+body {
+  display: block;
+  width: 800px;
+  margin: auto;
+  background-color: burlywood;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+h1.index {
+  color: whitesmoke;
+  text-align: center;
+  margin: 15px;
+
+}
+
+ul.index {
+  background-color: whitesmoke;
+  text-align: center;
+  width: 300px;
+  padding: 3px;
+  margin: auto;
+  list-style: none; 
+}
+
+
+.one, .two {
+  background: burlywood;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+
+.three {
+  background: burlywood;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 2px;
+}
+
+
+button {
+  padding: 8px;
+  margin: auto;
+}
+
+h3 {
+  display: block;
+  width: 800px;
+  margin: auto;
+  padding: 10px
+}
+
+p {
+  display: block;
+  width: 800px;
+  margin: 15px;
+  padding: 1px
+}
+
+.highlight {
+  font-weight: bold;
+}
